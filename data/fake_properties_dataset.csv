@@ -1,0 +1,101 @@
+,id,address,bedrooms,bathrooms,size,pets,type,neighbourhood,description,sponsored,image,price
+0,0,123 Main St,3,1.0,1000,True,House,Kitsilano,Spacious house with a backyard.,True,/images/rental-2.png,6670
+1,1,456 Elm St,1,2.0,800,False,Apartment,Downtown,Spacious house with a backyard.,True,/images/rental-2.png,5110
+2,2,789 Oak St,4,2.0,1200,True,Townhouse,Yaletown,Modern condo in the heart of the city.,True,/images/rental-2.png,7985
+3,3,101 Maple Ave,2,2.0,1000,False,Townhouse,Kitsilano,Spacious house with a backyard.,True,/images/rental-2.png,6386
+4,4,202 Cedar Ave,3,3.0,600,True,Townhouse,Mount Pleasant,Cozy apartment with a view.,True,/images/rental-2.png,4664
+5,5,303 Pine St,2,2.5,800,False,Townhouse,Kitsilano,Modern condo in the heart of the city.,True,/images/rental-2.png,5407
+6,6,404 Birch Ave,1,1.5,800,True,Apartment,Mount Pleasant,Cozy apartment with a view.,False,/images/rental-1.png,5113
+7,7,505 Oakwood Dr,4,1.0,1000,True,House,Yaletown,Modern condo in the heart of the city.,False,/images/rental-1.png,7009
+8,8,606 Maplewood Ln,2,2.5,800,True,House,Kitsilano,Modern condo in the heart of the city.,True,/images/rental-2.png,5415
+9,9,707 Elmwood Rd,5,1.0,800,True,Condo,Downtown,Modern condo in the heart of the city.,False,/images/rental-1.png,6307
+10,10,808 Cedarwood Pl,1,1.5,1200,True,Condo,West End,Cozy apartment with a view.,False,/images/rental-1.png,7099
+11,11,909 Redwood Ct,5,2.5,1200,False,House,Kitsilano,Cozy apartment with a view.,True,/images/rental-2.png,8322
+12,12,1010 Spruce St,2,1.5,1000,True,Condo,Yaletown,Modern condo in the heart of the city.,True,/images/rental-2.png,6374
+13,13,1111 Pine Ave,1,2.0,1500,False,Condo,Yaletown,Spacious house with a backyard.,False,/images/rental-1.png,8589
+14,14,1212 Oak Ave,4,2.5,1500,False,Townhouse,Downtown,Cozy apartment with a view.,False,/images/rental-1.png,9450
+15,15,1313 Maple Rd,5,3.0,1500,True,Townhouse,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,9800
+16,16,1414 Birch Dr,3,2.0,600,True,Condo,West End,Spacious house with a backyard.,True,/images/rental-2.png,4711
+17,17,1515 Elmwood Ln,1,2.5,1000,True,Apartment,Yaletown,Modern condo in the heart of the city.,True,/images/rental-2.png,6059
+18,18,1616 Oakwood Pl,1,3.0,800,True,Townhouse,West End,Cozy apartment with a view.,False,/images/rental-1.png,5096
+19,19,1717 Cedarwood Ct,1,1.5,1000,True,Townhouse,Mount Pleasant,Modern condo in the heart of the city.,False,/images/rental-1.png,6128
+20,20,1818 Pine Rd,5,2.5,1000,False,Condo,West End,Cozy apartment with a view.,True,/images/rental-2.png,7347
+21,21,1919 Maplewood Dr,4,1.5,600,False,Townhouse,Kitsilano,Cozy apartment with a view.,True,/images/rental-2.png,4955
+22,22,2020 Birchwood Ave,2,1.0,600,True,Condo,Downtown,Modern condo in the heart of the city.,True,/images/rental-2.png,4424
+23,23,2121 Elmwood Rd,2,1.5,1500,False,Apartment,West End,Spacious house with a backyard.,False,/images/rental-1.png,8950
+24,24,2222 Oakwood Ln,4,3.0,800,False,Apartment,West End,Spacious house with a backyard.,True,/images/rental-2.png,6006
+25,25,2323 Cedar Ave,2,1.0,1500,True,House,Yaletown,Spacious house with a backyard.,True,/images/rental-2.png,8878
+26,26,2424 Redwood Pl,3,1.0,800,True,House,Yaletown,Cozy apartment with a view.,True,/images/rental-2.png,5673
+27,27,2525 Spruce Ct,4,2.0,1000,True,Condo,West End,Spacious house with a backyard.,False,/images/rental-1.png,6967
+28,28,2626 Pine St,5,3.0,800,False,Apartment,Downtown,Spacious house with a backyard.,True,/images/rental-2.png,6290
+29,29,2727 Maple Ave,3,1.0,1200,False,Condo,Mount Pleasant,Cozy apartment with a view.,True,/images/rental-2.png,7723
+30,30,2828 Oakwood Dr,1,3.0,1200,False,Apartment,Kitsilano,Cozy apartment with a view.,False,/images/rental-1.png,7123
+31,31,2929 Birch Rd,3,3.0,1500,True,Apartment,Kitsilano,Cozy apartment with a view.,True,/images/rental-2.png,9234
+32,32,3030 Elmwood Pl,3,1.0,1500,True,House,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,9171
+33,33,3131 Cedarwood Ct,3,3.0,600,True,Apartment,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,4723
+34,34,3232 Pinewood Rd,2,1.5,1000,False,Apartment,Yaletown,Modern condo in the heart of the city.,False,/images/rental-1.png,6351
+35,35,3333 Oakwood Ln,4,1.0,600,False,House,Kitsilano,Spacious house with a backyard.,True,/images/rental-2.png,4993
+36,36,3434 Redwood Ave,1,1.0,800,True,Condo,West End,Spacious house with a backyard.,True,/images/rental-2.png,5100
+37,37,3535 Spruce St,4,1.5,1500,True,Townhouse,Downtown,Cozy apartment with a view.,True,/images/rental-2.png,9455
+38,38,3636 Maplewood Dr,5,1.0,1500,True,Apartment,Downtown,Modern condo in the heart of the city.,False,/images/rental-1.png,9800
+39,39,3737 Elm St,2,2.0,1200,True,House,West End,Spacious house with a backyard.,False,/images/rental-1.png,7359
+40,40,3838 Cedar Ave,3,2.0,1500,True,Condo,Yaletown,Spacious house with a backyard.,False,/images/rental-1.png,9192
+41,41,3939 Oakwood Rd,2,3.0,600,False,Apartment,Downtown,Modern condo in the heart of the city.,True,/images/rental-2.png,4355
+42,42,4040 Pine Pl,2,2.0,1500,False,Apartment,Downtown,Modern condo in the heart of the city.,True,/images/rental-2.png,8943
+43,43,4141 Birchwood Ct,4,3.0,800,False,House,Yaletown,Cozy apartment with a view.,True,/images/rental-2.png,5981
+44,44,4242 Elmwood Ave,5,2.5,600,False,House,Downtown,Cozy apartment with a view.,False,/images/rental-1.png,5266
+45,45,4343 Maple St,3,1.5,800,True,Apartment,West End,Cozy apartment with a view.,True,/images/rental-2.png,5679
+46,46,4444 Oakwood Dr,4,3.0,1000,True,House,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,6981
+47,47,4545 Cedarwood Ln,5,2.0,1500,True,Townhouse,West End,Spacious house with a backyard.,False,/images/rental-1.png,9798
+48,48,4646 Redwood Rd,3,2.5,1200,False,House,Yaletown,Cozy apartment with a view.,False,/images/rental-1.png,7681
+49,49,4747 Spruce Ave,4,1.0,800,True,Townhouse,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,6017
+50,50,4848 Pine Rd,3,1.0,800,False,House,Downtown,Modern condo in the heart of the city.,False,/images/rental-1.png,5657
+51,51,4949 Maple Ave,3,1.5,1500,False,Condo,Downtown,Cozy apartment with a view.,False,/images/rental-1.png,9200
+52,52,5050 Oak St,5,1.5,600,False,Condo,Kitsilano,Cozy apartment with a view.,False,/images/rental-1.png,5293
+53,53,5151 Birch Ave,5,2.5,1500,False,Condo,West End,Modern condo in the heart of the city.,False,/images/rental-1.png,9823
+54,54,5252 Elmwood Dr,5,1.5,1500,True,Townhouse,Mount Pleasant,Cozy apartment with a view.,True,/images/rental-2.png,9757
+55,55,5353 Cedarwood Pl,1,1.0,800,True,House,Kitsilano,Spacious house with a backyard.,True,/images/rental-2.png,5069
+56,56,5454 Oakwood Ct,1,1.0,1000,True,Apartment,Downtown,Cozy apartment with a view.,True,/images/rental-2.png,6103
+57,57,5555 Redwood Ln,1,2.0,1500,True,House,Kitsilano,Modern condo in the heart of the city.,True,/images/rental-2.png,8571
+58,58,5656 Spruce Rd,5,1.5,1500,True,Condo,West End,Cozy apartment with a view.,True,/images/rental-2.png,9824
+59,59,5757 Pinewood Ave,4,2.5,1200,True,Townhouse,Mount Pleasant,Modern condo in the heart of the city.,False,/images/rental-1.png,7974
+60,60,5858 Maplewood Ln,3,2.0,600,True,Apartment,Yaletown,Cozy apartment with a view.,False,/images/rental-1.png,4727
+61,61,5959 Oakwood Rd,3,1.0,1000,True,Apartment,Yaletown,Modern condo in the heart of the city.,False,/images/rental-1.png,6655
+62,62,6060 Cedar St,4,1.5,600,True,Townhouse,Yaletown,Cozy apartment with a view.,False,/images/rental-1.png,5027
+63,63,6161 Elmwood Dr,1,3.0,600,True,House,West End,Spacious house with a backyard.,False,/images/rental-1.png,4065
+64,64,6262 Pine Ave,4,3.0,1500,True,Apartment,Downtown,Cozy apartment with a view.,True,/images/rental-2.png,9455
+65,65,6363 Birchwood Pl,1,2.0,1500,True,Condo,Mount Pleasant,Spacious house with a backyard.,True,/images/rental-2.png,8577
+66,66,6464 Oakwood Ct,3,3.0,800,True,Townhouse,West End,Modern condo in the heart of the city.,False,/images/rental-1.png,5715
+67,67,6565 Redwood Ave,3,3.0,1200,False,House,Mount Pleasant,Spacious house with a backyard.,False,/images/rental-1.png,7702
+68,68,6666 Spruce Ln,3,2.0,1000,True,House,West End,Cozy apartment with a view.,False,/images/rental-1.png,6720
+69,69,6767 Cedar Ave,4,3.0,1000,False,House,Mount Pleasant,Modern condo in the heart of the city.,True,/images/rental-2.png,6979
+70,70,6868 Elm St,2,3.0,800,True,Apartment,Yaletown,Spacious house with a backyard.,False,/images/rental-1.png,5361
+71,71,6969 Maplewood Ct,2,2.0,600,False,Townhouse,Kitsilano,Modern condo in the heart of the city.,False,/images/rental-1.png,4366
+72,72,7070 Oakwood Ln,3,2.0,1000,True,Condo,West End,Cozy apartment with a view.,True,/images/rental-2.png,6733
+73,73,7171 Pinewood Rd,4,2.0,800,True,Townhouse,Yaletown,Spacious house with a backyard.,False,/images/rental-1.png,6009
+74,74,7272 Birchwood Ave,2,3.0,1500,True,Condo,West End,Spacious house with a backyard.,True,/images/rental-2.png,8914
+75,75,7373 Cedarwood Dr,4,2.5,1500,True,House,Yaletown,Spacious house with a backyard.,False,/images/rental-1.png,9479
+76,76,7474 Elmwood Pl,1,3.0,800,False,Townhouse,West End,Spacious house with a backyard.,False,/images/rental-1.png,5148
+77,77,7575 Oak Ave,3,2.0,800,True,Condo,Kitsilano,Cozy apartment with a view.,False,/images/rental-1.png,5717
+78,78,7676 Maple Rd,2,2.5,600,False,Townhouse,Mount Pleasant,Modern condo in the heart of the city.,False,/images/rental-1.png,4402
+79,79,7777 Redwood Ln,3,1.0,1000,False,House,Yaletown,Cozy apartment with a view.,False,/images/rental-1.png,6750
+80,80,7878 Spruce Ave,2,1.0,800,False,Apartment,Kitsilano,Modern condo in the heart of the city.,True,/images/rental-2.png,5378
+81,81,7979 Pine Ave,3,2.0,800,True,Condo,Yaletown,Modern condo in the heart of the city.,False,/images/rental-1.png,5741
+82,82,8080 Cedarwood Rd,4,2.0,600,False,Townhouse,West End,Cozy apartment with a view.,True,/images/rental-2.png,4986
+83,83,8181 Elmwood St,4,2.5,1500,True,Townhouse,Kitsilano,Spacious house with a backyard.,True,/images/rental-2.png,9504
+84,84,8282 Oakwood Ave,5,1.5,1500,True,House,Mount Pleasant,Cozy apartment with a view.,True,/images/rental-2.png,9813
+85,85,8383 Birch Rd,2,1.0,1000,False,Townhouse,West End,Spacious house with a backyard.,True,/images/rental-2.png,6366
+86,86,8484 Maplewood Dr,2,3.0,1500,False,House,West End,Spacious house with a backyard.,False,/images/rental-1.png,8868
+87,87,8585 Pine St,4,2.5,1000,False,Townhouse,West End,Cozy apartment with a view.,True,/images/rental-2.png,6969
+88,88,8686 Cedarwood Pl,2,2.0,1200,True,Condo,Downtown,Cozy apartment with a view.,False,/images/rental-1.png,7418
+89,89,8787 Elmwood Rd,5,1.0,600,True,Condo,West End,Spacious house with a backyard.,False,/images/rental-1.png,5343
+90,90,8888 Oakwood Dr,3,1.5,800,True,Condo,Downtown,Cozy apartment with a view.,True,/images/rental-2.png,5653
+91,91,8989 Redwood Ave,3,1.5,800,True,Apartment,West End,Modern condo in the heart of the city.,False,/images/rental-1.png,5700
+92,92,9090 Spruce Ln,2,1.5,600,False,House,Mount Pleasant,Cozy apartment with a view.,True,/images/rental-2.png,4412
+93,93,9191 Cedar Ln,5,1.5,1000,False,Apartment,Kitsilano,Cozy apartment with a view.,True,/images/rental-2.png,7263
+94,94,9292 Birchwood Ave,5,2.5,800,True,Condo,Yaletown,Cozy apartment with a view.,True,/images/rental-2.png,6275
+95,95,9393 Elmwood Ct,2,2.5,1200,True,Apartment,West End,Modern condo in the heart of the city.,True,/images/rental-2.png,7449
+96,96,9494 Oakwood St,2,2.0,600,False,Townhouse,Downtown,Cozy apartment with a view.,True,/images/rental-2.png,4449
+97,97,9595 Pine Rd,5,1.0,1200,True,Condo,Downtown,Spacious house with a backyard.,False,/images/rental-1.png,8339
+98,98,9696 Maplewood Ln,3,2.0,1000,True,Townhouse,West End,Cozy apartment with a view.,True,/images/rental-2.png,6714
+99,99,9797 Cedar Ave,5,1.5,1500,True,Condo,Yaletown,Cozy apartment with a view.,True,/images/rental-2.png,9793
