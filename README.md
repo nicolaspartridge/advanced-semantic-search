@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the development of an advanced semantic search system tailored for real estate listings. Leveraging the latest updates in Elasticsearch and integrating the new JSON mode of ChatGPT, we aim to significantly enhance search accuracy and relevance.
+This project involves the development of an advanced semantic search system tailored for real estate listings. Leveraging the latest updates in Elasticsearch and integrating the new JSON mode of ChatGPT, I aim to significantly enhance search accuracy and relevance.
 
 ## Key Features
 
